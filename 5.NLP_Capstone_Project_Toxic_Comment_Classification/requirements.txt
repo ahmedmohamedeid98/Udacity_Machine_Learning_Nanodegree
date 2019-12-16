@@ -1,0 +1,7 @@
+python3
+numpy
+pandas 
+matplotlib
+seaborn
+keras
+backend tensorflow
